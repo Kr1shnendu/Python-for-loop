@@ -1,0 +1,7 @@
+2026-02-20 15:56:19,209 - 29 - INFO - The second largest elements in a list: [2, 3, 7, 2, 9, 8, 6] is: 8
+2026-02-20 15:56:19,209 - 29 - INFO - The second largest elements in a list: [2, 3, 7, 5] is: 5
+2026-02-20 15:56:19,209 - 29 - INFO - The second largest elements in a list: [32, 71, 56, 87, 20] is: 71
+2026-02-20 16:24:21,871 - 30 - WARNING - There is no second largest element in the list: [32, 32]
+2026-02-20 16:24:21,871 - 33 - INFO - The second largest elements in a list: [2, 3, 7, 2, 9, 8, 6] is: 8
+2026-02-20 16:24:21,871 - 33 - INFO - The second largest elements in a list: [2, 3, 7, 5] is: 5
+2026-02-20 16:24:21,871 - 33 - INFO - The second largest elements in a list: [32, 71, 56, 87, 20] is: 71
