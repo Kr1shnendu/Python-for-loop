@@ -1,0 +1,9 @@
+2026-02-20 15:23:30,244 - 11 - INFO - number of vowels are: 4
+2026-02-20 15:25:30,492 - 14 - INFO - number of vowels are: 4
+2026-02-20 15:27:47,922 - 17 - INFO - number of vowels are: {'h': 1, 'e': 1, 'l': 3, 'o': 2, 'w': 1, 'r': 1, 'd': 1}
+2026-02-20 15:36:20,532 - 20 - INFO - The second largest elements in a list is: 8
+2026-02-20 15:41:06,013 - 16 - INFO - The list: [2, 3, 7, 2, 9, 8, 6] is not sorted
+2026-02-20 15:41:30,283 - 16 - INFO - The list: [2, 3, 7, 2, 9, 8, 6] is not sorted
+2026-02-20 15:41:30,283 - 13 - INFO - The list: [2, 3, 5, 8] is sorted
+2026-02-20 15:41:57,045 - 16 - INFO - The list: [2, 3, 7, 2, 9, 8, 6] is not sorted ascending order
+2026-02-20 15:41:57,048 - 13 - INFO - The list: [2, 3, 5, 8] is sorted in ascending order
